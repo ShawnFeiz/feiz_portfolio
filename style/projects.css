@@ -1,0 +1,14 @@
+/* Overlay */
+.overlay {
+   opacity: 0;
+   transition: 0.3s ease;
+}
+
+.overlay:hover {
+    opacity: 1;
+    background: rgb(27,112,182, 0.6);
+}
+
+#overlay-text {
+    color: white;
+}
