@@ -37,6 +37,11 @@ body {
     padding-top: 1%;
 }
 
+.projectImageCustom {
+    width: 100%;
+    height: 275px;
+    object-fit: cover;
+}
 
 .card-custom {
     background-color: #d8eff0;
