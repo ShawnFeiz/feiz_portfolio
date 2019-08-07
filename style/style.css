@@ -55,6 +55,7 @@ body {
 
 a {
     color: rgb(27,112,182);
+    text-decoration: none;
 }
 
 
@@ -93,6 +94,10 @@ a {
 
  .card-body {
      padding-top: 10px;
+ }
+
+ .bioCustom {
+     text-decoration: none;
  }
 
 
