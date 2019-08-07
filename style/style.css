@@ -33,6 +33,13 @@ body {
     text-align: justify;
 }
 
+.builtFromScratch {
+    color: #707070;
+    font-size: 0.7em;
+    margin-left: 12px;
+    margin-bottom: 20px;
+}
+
 .navCustom {
     padding-top: 1%;
 }
